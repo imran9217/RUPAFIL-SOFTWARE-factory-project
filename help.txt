@@ -1,0 +1,134 @@
+
+Wikigap logo	
+WikiGap: Help us increase the representation of Pakistani women on Wikipedia!
+
+Read moreHide[Help with translations!]
+Online help
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+For Wikipedia's help pages, see Help:Contents and Wikipedia:Help desk.
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article needs additional citations for verification. (November 2011)
+This article contains content that is written like an advertisement. (April 2014)
+Online help is topic-oriented, procedural or reference information delivered through computer software. It is a form of user assistance. Most online help is designed to give assistance in the use of a software application or operating system, but can also be used to present information on a broad range of subjects. When online help is linked to the state of the application (what the user is doing), it is called Context-sensitive help.
+
+
+Contents
+1	Benefits
+2	Platforms
+2.1	DITA and DocBook
+2.2	Microsoft help platforms
+2.3	Other platforms
+3	See also
+4	References
+5	External links
+Benefits
+Online help has largely replaced live customer support. Before its availability, support could only be given through printed documentation (limited), mail (long wait) or telephone (expensive).
+
+When customers troubleshoot their own problems, quite often they can get to a solution by themselves, saving time and money for themselves and the company. More companies can afford this kind of help system, allowing them to compete with the large companies more effectively.
+
+Platforms
+See also: Category:Online help.
+Online help is created using help authoring tools or component content management systems. It is delivered in a wide variety of formats, some proprietary and some open-standard, including:
+
+Hypertext Markup Language (HTML), which includes HTML Help, HTML-based Help, JavaHelp, and Oracle Help
+Adobe Portable Document Format (PDF)
+Online help is also provided via live chat systems, one step removed from telephone calls. This allows the support person to conduct several support sessions simultaneously, thus reducing costs. The transcript is immediately available and can be sent to the customer right after the session ends.
+
+The chat feature also reduces the intense negativity that can be directed at customer support personnel, requiring the customer to calm down and articulate their thoughts more clearly.
+
+DITA and DocBook
+The Open Source tool DocBook XSL can also generate help files and is an excellent resource for single source publishing. From one source, DocBook can generate PDF, JavaHelp, WebHelp, eBook and many more formats (even .chm files if required). The same with DITA, which is even favored for that purpose.
+
+Microsoft help platforms
+Microsoft develops the platforms for delivering help systems in the Microsoft Windows operating system.
+
+Platform name	Description	Public?[clarification needed]
+Microsoft QuickHelp	Ralph Walden joined Microsoft in 1987 and wrote an online help system for MS-DOS and OS/2 called QuickHelp. Ralph was also primarily responsible for WinHelp and HTML Help 1.x.	No
+help command	Available in MS-DOS, OS/2 and Windows	No
+Microsoft WinHelp (.hlp)	Based on the Rich Text Format, this was the industry standard for Windows 3.1 and Windows 95/NT. The popular Windows Help program (WinHlp32.exe) was included with all Windows operating systems from Windows 3.0 until the Windows XP operating system. However, the help engine is not included with Windows Vista and is only available as a download.[1]	Yes
+HTML Help (.chm)	Also known as Microsoft Compiled HTML Help (the name of its file format), it based on HTML and other data such as images and JavaScript. HTML Help 1.0 was released in 1997. In 2006, it was available from Microsoft as HTML Help 1.4.	Yes
+Help and Support Center	A deprecated online help system in Windows Me and Windows XP	No
+Microsoft Help 2 (.hxs)	In 2001, Microsoft announced plans for a wide release of HTML Help 2.0, which came to be called Microsoft Help 2. This platform was developed by Microsoft and shipped in 2002 as the help format for Visual Studio .NET, MSDN Library and TechNet products, but Microsoft announced it had cancelled plans to make the format publicly available. Microsoft Help 2 was also used as the help format in Office 2007.	No
+AP Help 1.0 (.h1s)	Assistance Platform Help is based on Microsoft Assistance Markup Language. It is the format developed for and shipped with Windows Vista. It will not be made publicly available as an authoring platform for other software vendors, but will be used by Microsoft, OEMs, and certain corporate users. Version 2.0 of the Assistance Platform Help engine is currently on hold.	No
+Microsoft Help Viewer 1.0 (.mshc)	The help system for Visual Studio 2010, and the successor for Microsoft Help 2.	No
+Other platforms
+Platform name	Description
+HelpConsole (local HTML files or web-based)	IIS based system, with a standard navigation tree and content area, viewable with a web browser, supports JS, Flash, HTML5, Embedded presentations etc. Since it is web-based, it works on Windows, Linux, and virtually all other Operating System.
+AmigaGuide (.guide)	The official hypertext document file format designed for the Amiga.
+Apple Help (.HELP)	Apple Computer's proprietary help platform for the Mac OS 8.5+ operating system.
+WebHelp	A cross-platform, uncompiled Help system that can run on a variety of browsers and on a variety of platforms, including Windows, UNIX, Linux, Sun Solaris, and
+Macintosh. MadCap Software is Help authoring tool used to create WebHelp. RoboHelp is another Help authoring tool.
+
+Sun JavaHelp (.js)	A platform-independent help system written in Java programming language by Sun Microsystems. It runs on any platform and browser that supports the Java Runtime Environment (JRE).
+Oracle Help	Two formats developed by the Oracle Corporation: Oracle Help for Java (OHJ) and Oracle Help for Web (OHW).[2]
+Help library (.HLB)	The official help file format designed for VMS.
+DotNetHelp	A new Windows help format, as an alternative to the .chm format, that also supports .NET applications.
+Texinfo (also known as the "info")	The official documentation system for the GNU project.
+Unix man pages	The standard method used to document (among others) Unix programs and shell commands, System and Library calls, Special files and File formats .
+Information Presentation Facility (IPF)	The help system used by IBM's OS/2 system, eComStation and ArcaOS.[3] It is the official documentation system for the fpGUI Toolkit project.
+Norton Guides	
+See also
+Balloon help
+Darwin Information Typing Architecture
+DocBook
+Frequently Asked Questions
+List of help authoring tools
+Microsoft Assistance Markup Language (Microsoft AML)
+Web help
+help desk
+Freenode
+References
+ The Windows Vista and Windows Server 2008 Developer Story: Application Compatibility Cookbook § "Help Engine Support"
+ Oracle Help Technologies
+ "ArcaOS IPF Help". Retrieved 2020-08-24.
+External links
+Online Help Technology Report 2013
+Categories: Online help
+Navigation menu
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+ArticleTalk
+ReadEditView historySearch
+Search Wikipedia
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Donate
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Tools
+What links here
+Related changes
+Special pages
+Permanent link
+Page information
+Cite this page
+Wikidata item
+Print/export
+Download as PDF
+Printable version
+
+Languages
+Čeština
+Deutsch
+فارسی
+Français
+한국어
+日本語
+Русский
+Edit links
+This page was last edited on 18 November 2020, at 23:23 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaMobile viewDevelopersStatisticsCookie statementWikimedia FoundationPowered by MediaWiki
